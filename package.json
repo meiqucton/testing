@@ -1,0 +1,27 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "tesst",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meiqucton/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meiqucton/testing/issues"
+  },
+  "homepage": "https://github.com/meiqucton/testing#readme",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.7.9",
+    "jest": "^29.7.0"
+  }
+}
